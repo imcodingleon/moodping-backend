@@ -1,2 +1,0 @@
-# Mercenary-Backend
-Mercenary Backend
